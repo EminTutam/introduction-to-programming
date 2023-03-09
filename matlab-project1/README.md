@@ -12,6 +12,6 @@
 4. Write a MATLAB program that calculates the $k_{skor}^2$ of the $x_1$, $x_2$, and $x_3$ numbers taken from the user via the keyboard using the formula and prints it to the screen using the disp command:
    - $\frac{1}{k_{skor}^2}=\frac{\sqrt[2/3]{\frac{1}{x_1}+\frac{1}{x_2}+\frac{1}{x_3}}}{9}$
 
-5. A bank requires its customers to have a minimum salary of $6000 in order to provide credit. However, it accepts credit applications from customers with lower salaries if they work in the public sector. Write a computer program in MATLAB that obtains the user's salary in dollar and whether they are a public employee or not via the input command and displays whether their credit application is accepted or not via the fprintf command. 
+5. A bank requires its customers to have a minimum salary of $6000 in order to provide credit. However, it accepts credit applications from customers with lower salaries if they work in the public sector. Write a MATLAB program that obtains the user's salary in dollar and whether they are a public employee or not via the input command and displays whether their credit application is accepted or not via the fprintf command. 
    - The user should enter the relevant character for whether they are a public employee or not, with the "y" character representing "yes" and the "n" character representing "no".
    - Note that the salary information should be a numerical value, and the information on whether the person is a public employee should be a character. Use the correct formats for the input command.
