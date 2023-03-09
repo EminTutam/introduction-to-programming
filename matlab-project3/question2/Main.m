@@ -1,12 +1,12 @@
 function result=Main(number1,number2)
 
-firstTest=MuhammedEminTutam_190709022_CEN103_Proje3_Soru2_WrongSort(number1,number2);
+firstTest=WrongSort(number1,number2);
 if firstTest
     result=-1;
     return; %early termination
 end
 
-secondTest=MuhammedEminTutam_190709022_CEN103_Proje3_Soru2_Not6DigitNumber(number1,number2);
+secondTest=Not6DigitNumber(number1,number2);
 if secondTest
     result=-2;
     return; %early termination
